@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\bin\Debug\net6.0\LabWork1.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\bin\Debug\net6.0\LabWork1.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\bin\Debug\net6.0\LabWork1.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\bin\Debug\net6.0\LabWork1.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\bin\Debug\net6.0\LabWork1.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\refint\LabWork1.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\LabWork1.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LabWork1\obj\Debug\net6.0\ref\LabWork1.dll

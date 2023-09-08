@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\bin\Debug\net6.0\EnumPractice.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\bin\Debug\net6.0\EnumPractice.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\bin\Debug\net6.0\EnumPractice.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\bin\Debug\net6.0\EnumPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\bin\Debug\net6.0\EnumPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\refint\EnumPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\EnumPractice.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\EnumPractice\obj\Debug\net6.0\ref\EnumPractice.dll

@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\bin\Debug\net6.0\Arguments_Named_Positional_optional.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\bin\Debug\net6.0\Arguments_Named_Positional_optional.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\bin\Debug\net6.0\Arguments_Named_Positional_optional.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\bin\Debug\net6.0\Arguments_Named_Positional_optional.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\bin\Debug\net6.0\Arguments_Named_Positional_optional.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\refint\Arguments_Named_Positional_optional.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\Arguments_Named_Positional_optional.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Arguments_Named_Positional_optional\obj\Debug\net6.0\ref\Arguments_Named_Positional_optional.dll

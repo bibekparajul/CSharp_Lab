@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

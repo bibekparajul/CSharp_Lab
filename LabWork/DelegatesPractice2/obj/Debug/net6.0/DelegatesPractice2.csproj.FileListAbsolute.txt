@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\bin\Debug\net6.0\DelegatesPractice2.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\bin\Debug\net6.0\DelegatesPractice2.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\bin\Debug\net6.0\DelegatesPractice2.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\bin\Debug\net6.0\DelegatesPractice2.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\bin\Debug\net6.0\DelegatesPractice2.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\refint\DelegatesPractice2.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\DelegatesPractice2.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\DelegatesPractice2\obj\Debug\net6.0\ref\DelegatesPractice2.dll

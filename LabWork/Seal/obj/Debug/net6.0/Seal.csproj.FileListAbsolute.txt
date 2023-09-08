@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\bin\Debug\net6.0\Seal.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\bin\Debug\net6.0\Seal.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\bin\Debug\net6.0\Seal.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\bin\Debug\net6.0\Seal.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\bin\Debug\net6.0\Seal.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\refint\Seal.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\Seal.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Seal\obj\Debug\net6.0\ref\Seal.dll

@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\bin\Debug\net6.0\AbstractClassAndMethod.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\bin\Debug\net6.0\AbstractClassAndMethod.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\bin\Debug\net6.0\AbstractClassAndMethod.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\bin\Debug\net6.0\AbstractClassAndMethod.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\bin\Debug\net6.0\AbstractClassAndMethod.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\refint\AbstractClassAndMethod.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\AbstractClassAndMethod.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AbstractClassAndMethod\obj\Debug\net6.0\ref\AbstractClassAndMethod.dll

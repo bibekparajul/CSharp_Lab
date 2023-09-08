@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\bin\Debug\net6.0\Generic.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\bin\Debug\net6.0\Generic.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\bin\Debug\net6.0\Generic.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\bin\Debug\net6.0\Generic.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\bin\Debug\net6.0\Generic.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\refint\Generic.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\Generic.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Generic\obj\Debug\net6.0\ref\Generic.dll

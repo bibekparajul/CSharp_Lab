@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

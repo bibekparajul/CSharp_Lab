@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\bin\Debug\net6.0\PartialClassEx.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\bin\Debug\net6.0\PartialClassEx.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\bin\Debug\net6.0\PartialClassEx.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\bin\Debug\net6.0\PartialClassEx.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\bin\Debug\net6.0\PartialClassEx.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\refint\PartialClassEx.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\PartialClassEx.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassEx\obj\Debug\net6.0\ref\PartialClassEx.dll

@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\bin\Debug\net6.0\PartialClassPractice.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\bin\Debug\net6.0\PartialClassPractice.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\bin\Debug\net6.0\PartialClassPractice.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\bin\Debug\net6.0\PartialClassPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\bin\Debug\net6.0\PartialClassPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\refint\PartialClassPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\PartialClassPractice.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\PartialClassPractice\obj\Debug\net6.0\ref\PartialClassPractice.dll

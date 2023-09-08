@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\bin\Debug\net6.0\StaticPractice.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\bin\Debug\net6.0\StaticPractice.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\bin\Debug\net6.0\StaticPractice.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\bin\Debug\net6.0\StaticPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\bin\Debug\net6.0\StaticPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\refint\StaticPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\StaticPractice.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\StaticPractice\obj\Debug\net6.0\ref\StaticPractice.dll

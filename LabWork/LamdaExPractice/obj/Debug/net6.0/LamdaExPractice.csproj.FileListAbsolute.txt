@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\bin\Debug\net6.0\LamdaExPractice.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\bin\Debug\net6.0\LamdaExPractice.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\bin\Debug\net6.0\LamdaExPractice.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\bin\Debug\net6.0\LamdaExPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\bin\Debug\net6.0\LamdaExPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\refint\LamdaExPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\LamdaExPractice.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LamdaExPractice\obj\Debug\net6.0\ref\LamdaExPractice.dll

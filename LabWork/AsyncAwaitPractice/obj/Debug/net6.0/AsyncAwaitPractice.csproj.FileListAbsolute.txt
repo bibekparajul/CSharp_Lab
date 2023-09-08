@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\bin\Debug\net6.0\AsyncAwaitPractice.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\bin\Debug\net6.0\AsyncAwaitPractice.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\bin\Debug\net6.0\AsyncAwaitPractice.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\bin\Debug\net6.0\AsyncAwaitPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\bin\Debug\net6.0\AsyncAwaitPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\refint\AsyncAwaitPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\AsyncAwaitPractice.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\AsyncAwaitPractice\obj\Debug\net6.0\ref\AsyncAwaitPractice.dll

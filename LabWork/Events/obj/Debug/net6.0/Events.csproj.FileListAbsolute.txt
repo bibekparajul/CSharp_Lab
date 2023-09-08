@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\bin\Debug\net6.0\Events.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\bin\Debug\net6.0\Events.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\bin\Debug\net6.0\Events.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\bin\Debug\net6.0\Events.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\refint\Events.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\Events\obj\Debug\net6.0\ref\Events.dll

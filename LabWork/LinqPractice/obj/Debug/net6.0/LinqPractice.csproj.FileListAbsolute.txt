@@ -1,0 +1,15 @@
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\bin\Debug\net6.0\LinqPractice.exe
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\bin\Debug\net6.0\LinqPractice.deps.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\bin\Debug\net6.0\LinqPractice.runtimeconfig.json
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\bin\Debug\net6.0\LinqPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\bin\Debug\net6.0\LinqPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.csproj.AssemblyReference.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.AssemblyInfoInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.AssemblyInfo.cs
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.csproj.CoreCompileInputs.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\refint\LinqPractice.dll
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.pdb
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\LinqPractice.genruntimeconfig.cache
+D:\6thsem\bibekParajuli\dotnet\dotNetLabWork\LabWork\LinqPractice\obj\Debug\net6.0\ref\LinqPractice.dll
